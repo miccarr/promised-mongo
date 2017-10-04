@@ -1,5 +1,5 @@
 {
-  "name": "promised-mongo",
+  "name": "pr0mised-m0ng0",
   "description": "Easy to use module that implements the mongo api and supports promises",
   "keywords": [
     "mongo",
@@ -9,7 +9,7 @@
     "q"
   ],
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "2.0.3",
   "repository": "git://github.com/gordonmleigh/promised-mongo.git",
   "author": "Gordon Mackenzie-Leigh <gordon@stugo.co.uk>",
   "contributors": [
